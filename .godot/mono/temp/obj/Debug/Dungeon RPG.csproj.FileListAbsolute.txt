@@ -1,0 +1,17 @@
+C:\GameDev\godot\4.2.1\Projects\Dungeon RPG\.godot\mono\temp\bin\Debug\Dungeon RPG.deps.json
+C:\GameDev\godot\4.2.1\Projects\Dungeon RPG\.godot\mono\temp\bin\Debug\Dungeon RPG.runtimeconfig.json
+C:\GameDev\godot\4.2.1\Projects\Dungeon RPG\.godot\mono\temp\bin\Debug\Dungeon RPG.dll
+C:\GameDev\godot\4.2.1\Projects\Dungeon RPG\.godot\mono\temp\bin\Debug\Dungeon RPG.pdb
+C:\GameDev\godot\4.2.1\Projects\Dungeon RPG\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\GameDev\godot\4.2.1\Projects\Dungeon RPG\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\GameDev\godot\4.2.1\Projects\Dungeon RPG\.godot\mono\temp\obj\Debug\Dungeon RPG.csproj.AssemblyReference.cache
+C:\GameDev\godot\4.2.1\Projects\Dungeon RPG\.godot\mono\temp\obj\Debug\Dungeon RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\GameDev\godot\4.2.1\Projects\Dungeon RPG\.godot\mono\temp\obj\Debug\Dungeon RPG.AssemblyInfoInputs.cache
+C:\GameDev\godot\4.2.1\Projects\Dungeon RPG\.godot\mono\temp\obj\Debug\Dungeon RPG.AssemblyInfo.cs
+C:\GameDev\godot\4.2.1\Projects\Dungeon RPG\.godot\mono\temp\obj\Debug\Dungeon RPG.csproj.CoreCompileInputs.cache
+C:\GameDev\godot\4.2.1\Projects\Dungeon RPG\.godot\mono\temp\obj\Debug\Dungeon .D4EB07BD.Up2Date
+C:\GameDev\godot\4.2.1\Projects\Dungeon RPG\.godot\mono\temp\obj\Debug\Dungeon RPG.dll
+C:\GameDev\godot\4.2.1\Projects\Dungeon RPG\.godot\mono\temp\obj\Debug\refint\Dungeon RPG.dll
+C:\GameDev\godot\4.2.1\Projects\Dungeon RPG\.godot\mono\temp\obj\Debug\Dungeon RPG.pdb
+C:\GameDev\godot\4.2.1\Projects\Dungeon RPG\.godot\mono\temp\obj\Debug\Dungeon RPG.genruntimeconfig.cache
+C:\GameDev\godot\4.2.1\Projects\Dungeon RPG\.godot\mono\temp\obj\Debug\ref\Dungeon RPG.dll

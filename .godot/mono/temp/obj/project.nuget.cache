@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "uuKostfcIlbSZTxAyucLJdf2/HCA6xQK44k7quIWhw09+u7kuCL5wUr8+ipYEEeLmmN40qje3s4YnzM1NbF1Mw==",
+  "success": true,
+  "projectFilePath": "C:\\GameDev\\godot\\4.2.1\\Projects\\Dungeon RPG\\Dungeon RPG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oconn\\.nuget\\packages\\godot.sourcegenerators\\4.2.2\\godot.sourcegenerators.4.2.2.nupkg.sha512",
+    "C:\\Users\\oconn\\.nuget\\packages\\godotsharp\\4.2.2\\godotsharp.4.2.2.nupkg.sha512",
+    "C:\\Users\\oconn\\.nuget\\packages\\godotsharpeditor\\4.2.2\\godotsharpeditor.4.2.2.nupkg.sha512",
+    "C:\\Users\\oconn\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\oconn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\oconn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
