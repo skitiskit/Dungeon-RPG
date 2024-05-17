@@ -31,3 +31,4 @@ res://Scripts/General/Camera.cs
 res://Scripts/UI/StatLabel.cs
 res://Scripts/Characters/Enemy/EnemiesContainer.cs
 res://Scripts/UI/EnemyCountLabel.cs
+res://Scenes/Characters/Player/player_strength_stat.tres

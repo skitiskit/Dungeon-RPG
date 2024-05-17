@@ -15,3 +15,4 @@ C:\GameDev\godot\4.2.1\Projects\Dungeon RPG\.godot\mono\temp\obj\Debug\refint\Du
 C:\GameDev\godot\4.2.1\Projects\Dungeon RPG\.godot\mono\temp\obj\Debug\Dungeon RPG.pdb
 C:\GameDev\godot\4.2.1\Projects\Dungeon RPG\.godot\mono\temp\obj\Debug\Dungeon RPG.genruntimeconfig.cache
 C:\GameDev\godot\4.2.1\Projects\Dungeon RPG\.godot\mono\temp\obj\Debug\ref\Dungeon RPG.dll
+C:\GameDev\godot\4.2.1\Projects\Dungeon RPG\.godot\mono\temp\obj\Debug\Dungeon RPG.sourcelink.json
