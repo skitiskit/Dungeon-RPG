@@ -32,3 +32,6 @@ res://Scripts/UI/StatLabel.cs
 res://Scripts/Characters/Enemy/EnemiesContainer.cs
 res://Scripts/UI/EnemyCountLabel.cs
 res://Scenes/Characters/Player/player_strength_stat.tres
+res://Scenes/Reward/treasure_chest.tscn
+res://Scripts/Reward/RewardResource.cs
+res://Scripts/Reward/TreasureChest.cs

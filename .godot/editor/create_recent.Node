@@ -1,5 +1,9 @@
-Button
+CollisionShape3D
+Area3D
+Sprite3D
+StaticBody3D
 VBoxContainer
+Button
 PanelContainer
 MarginContainer
 TextureRect
@@ -8,7 +12,3 @@ Path3D
 HBoxContainer
 Panel
 Container
-Node
-CollisionShape3D
-Area3D
-CollisionPolygon3D
